@@ -1,9 +1,6 @@
 import React from "react";
 
-const BlogList = (props) => {
-  const blogs = props.blogs;
-  const title = props.title;
-
+const BlogList = ({ blogs, title }) => {
   return (
     <>
       <div className="blog-list">
