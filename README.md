@@ -1,8 +1,8 @@
-#The React Blog Web Application
+# The React Blog Web Application
 
 This is a simple CRUD blog application based React for frotend and json server for database(backend).
 
-##Availabe Scipts
+## Availabe Scipts
 
 In the project directory, you can run:
 
@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 This command download the dependecy that's help to run our app.
 
-### `npm start'
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
