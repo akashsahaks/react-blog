@@ -1,6 +1,6 @@
 # The React Blog Web Application 
 
-This is a simple CRUD blog application based ## React for frotend and ## json-server for database(backend).
+This is a simple CRUD blog application based  React for frotend and  json server for database(backend).
 
 ## Availabe Scipts
 
